@@ -46,6 +46,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/less/test/css/3rd-party/bootstrap4.css",
               "src/styles.scss"
             ],
             "scripts": []
